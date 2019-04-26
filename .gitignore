@@ -10,6 +10,8 @@ __pycache__/
 .Python
 build/
 develop-eggs/
+bin/
+pyvenv.cfg
 dist/
 downloads/
 eggs/
@@ -23,6 +25,8 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+.vscode/
+pip-selfcheck.json
 MANIFEST
 
 # PyInstaller
